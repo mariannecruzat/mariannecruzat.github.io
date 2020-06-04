@@ -1,34 +1,41 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: About Super Seniorly
 permalink: /about
-comments: true
+comments: false
 ---
 
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+<p>Hi there, I'm Marianne! It took me about 5 years to graduate college, but I graduated debt free, all while having studied abroad 4 times, and traveled to 21 different countries (just in college!) Read more about how I embraced my time in school and my advice for thriving during the best years of your life! / I'm writing this to help you stay out of debt and have the best four, five, six years of your life!</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
+<p>I also happen to really love food, startups and travel and I'll be talking about those as well. </p>
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
+<p>I’m Marianne – a first year college student exploring new things to discover my passions and live a more fulfilling and meaningful life! I’ve always believed in the importance of trying new things and learning from each experience. I hope to encourage you all to try new things and join me on my journey to do the same!
 
-<h4>Questions or bug reports?</h4>
 
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+
+My Loves
+PHOTOGRAPHY | BAKING | FOOD | NAIL POLISH | COOKING | COLLEGE | TRAVEL | HEALTH | DIY CRAFTS | BEAUTY | MOTIVATIONAL VIDEOS | BUSINESS | CULTURE | ENTREPRENEURSHIP | NEW EXPERIENCES | SINGING (THOUGH I’M NOT VERY GOOD AT IT) | INSPIRATIONAL QUOTES
+
+Along the way, I will be posting tips and tricks that I have learned to help those going through similar struggles and make life a little sweeter. Additionally, I will be sharing content about some things that I love and things that will help you: College, Photography, Food, Beauty, DIY, and more!
+
+Thanks once again for reading! Feel free to write to me anytime at maybeyoucanblog@gmail.com! I want to hear from you!</p>
+
+<h4>Follow me on social media!</h4>
+
+<p><a href="https://www.instagram.com/mariannecruzat/">Instagram</a></p>
+<p><a href="https://twitter.com/mariannecruzat">Twitter</a></p>
 
 </div>
 
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/marianne.jpeg" alt="author of super seniorly" height="480" width="360" /></p>
 
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
 
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
 
 </div>
 </div>
