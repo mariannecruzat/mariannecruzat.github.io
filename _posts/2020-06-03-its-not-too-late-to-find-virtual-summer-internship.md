@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Options for creating a new site with Jekyll"
-author: john
+title:  "It’s Not Too Late to Find a Virtual Internship for the Summer"
+author: Marianne
 categories: [ Jekyll, tutorial ]
 image: assets/images/13.jpg
 ---
