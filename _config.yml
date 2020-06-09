@@ -7,7 +7,7 @@ favicon: 'assets/images/favicon.png'
 #baseurl: /home
 google_analytics: 'UA-88769385-2'
 disqus: 'superseniorly'
-mailchimp-list: '261b30feb6'
+mailchimp-list: 'http://eepurl.com/dC3HjH'
 include: ["_pages"]
 permalink: /:title/
 
