@@ -1,9 +1,9 @@
 # Site
 name: "Super Seniorly"
 title: "Super Seniorly"
-description: "Tips, tricks, stories, and advice from an intentional 5th year / super senior."
+description: "Tips, tricks, stories, and advice from an intentional 5th year student, AKA super senior."
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.png'
 #baseurl: /home
 google_analytics: 'UA-88769385-2'
 disqus: 'superseniorly'
