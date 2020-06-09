@@ -3,9 +3,9 @@ layout: post
 title:  "On to Singapore, Thailand and Vietnam!"
 author: Marianne
 categories: [ study abroad ]
-image: "https://images.unsplash.com/photo-1541544537156-7627a7a4aa1c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=a20c472bc23308e390c8ffae3dd90c60&auto=format&fit=crop&w=750&q=80"
+image: https://images.unsplash.com/photo-1565967511849-76a60a516170?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=751&q=80
 description: "My trip to Singapore, Thailand and Vietnam"
-featured: true
+featured: false
 hidden: false
 ---
 You all should listen to me when I say that you should start packing early, especially if you’re taking multiple airlines with different baggage restrictions! If you’re anything like me, you will probably have overweight luggage after you first “finish” packing and measure your luggage for the first time. I like to be well prepared for any situation (the rain, the heat and even occasional business casual events that might take place), which means extra outfits, extra equipment and ultimately extra weight in my check-in bag.

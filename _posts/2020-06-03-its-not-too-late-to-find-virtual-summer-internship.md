@@ -4,9 +4,9 @@ title:  "It’s Not Too Late to Find a Virtual Internship for the Summer"
 author: Marianne
 categories: [ Jekyll, tutorial ]
 image: https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80
+featured: true
+hidden: false
 ---
-
-# It's Not Too Late to Find a Virtual Internship for the Summer
 
 Speaking from personal experiences, it's not too late to find a virtual internship for the summer! I'm speaking on behalf of the startup I'm working for - we're still hiring for the summer and we are planning doing it on a rolling basis throughout the summer. As long as we find the right talent, we're willing to take on interns!
 

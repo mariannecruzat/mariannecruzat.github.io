@@ -4,7 +4,7 @@ title:  "6 Lessons From My First Year of College"
 author: Marianne
 categories: [ lessons ]
 tags: [first year]
-image: assets/images/11.jpg
+image: https://images.unsplash.com/photo-1550202256-47e53ffabc95?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80
 description: "Thoughts on my first year of college"
 featured: false
 hidden: false

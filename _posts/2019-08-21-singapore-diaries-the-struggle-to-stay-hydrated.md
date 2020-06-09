@@ -3,8 +3,9 @@ layout: post
 title:  "Singapore Diaries: The Struggle to Stay Hydrated"
 author: Marianne
 categories: [ study abroad ]
-image: assets/images/14.jpg
+image: https://images.unsplash.com/photo-1541771815507-0b5ac61d87b3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=401&q=80
 ---
+
 It’s been approximately 8 days and 13 hours since we landed in Changi airport. It’s quite hard to believe. Maybe I’m exaggerating a little bit, but it seems as if I’ve lived here for many years, quickly becoming well acquainted with public transportation and how to correctly order Kopi. These past few days have been exciting, packed with sweaty excursion after another, opportunities to try food with names I can’t pronounce and to make long lasting memories.
 
 Starting off with Wednesday, upon arrival at Changi airport, we were greeted by our fantastic SEAS NUS coordinators, Navin and Phyllis. From there, we took a tour of U-Town and I was able to get my first taste of food in Singapore. Bah Mian was the name of the hot noodle dish I ordered. It had thin noodles with green veggies (still unsure what veggie) and anchovies. To accompany my delicious noodles, I accidently ordered Horlicks, dinosaur style. According to Navin, Horlicks is similar to Ovaltine and dinosaur meant they put an extra scoop of the powder mix on top to add texture and extra flavor. It’s quite interesting how Singaporeans have a whole code system to order their drinks just the way they like it, “o” meaning using sugar to sweet drinks instead of the typical condensed milk, “c/si” meaning using evaporated milk, and “kosong” meaning not sweetened by sugar or condensed milk.

@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "Don't Let the Words "Chinese Festival" Fool You"
+title:  "Don't Let the Words 'Chinese Festival' Fool You"
 author: Marianne
 categories: [ study abroad ]
-image: assets/images/16.jpg
+image: https://images.unsplash.com/photo-1589852708237-48d4d682fe34?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=755&q=80
 ---
+
 Exactly 2 weeks in today and it feels like Singapore has been home for so long. I last left off with my experience in Little India, an ethnic enclave in Singapore, talking about what I saw there regarding inequality when it comes to race and socioeconomics. To finish of our tours to the ethnic enclaves of Singapore, on Thursday, we visited Chinatown. Both Wednesday and Thursday, I was able to learn many things about Chinese culture through our visits of Haw Par Village and Chinatown.
 
 If I’m honest, learning about the 10 Courts of Hell and Chinese Folklore quite terrified me. For not listening to my parents I might get smashed by a boulder? That seems a little harsh. Though I left not convinced of the Chinese folklore, my eyes were definitely opened to the different beliefs that those of Chinese descent might have. Along with this, we also visited Thian Hock Keng Temple, one of the oldest Taoist temples not too far from Chinatown (or in Chinatown, I can’t remember). While we were there, I watched (in a non-creepy way) a man give his offerings/prayers. It was very interesting, seeing someone go through the process, as I have never seen it before. Along with that, I feel that through my visit in Haw Par Villa and Thian Hock Keng Temple, I learned a lot about Chinese culture through the art (the way the gods/10 Courts of Hell was portrayed) as well as the set up of the temple.

@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to Super Seniorly!"
 author: Marianne
 categories: [ Jekyll, tutorial ]
-image: assets/images/12.jpg
+image: https://images.unsplash.com/photo-1462536943532-57a629f6cc60?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1504&q=80
 description: "Welcome to Super Seniorly - a blog about making the most of school!"
 featured: true
 hidden: false
