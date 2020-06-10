@@ -8,7 +8,7 @@ featured: true
 hidden: false
 ---
 
-# Should I Do An Unpaid Internship? Why It's Okay To Do An Unpaid Internship.
+# Should You Do An Unpaid Internship?
 
 While in college, I had three unpaid internships and three paid internships - I'm just as grateful to have had my unpaid internship experiences as my paid internship experiences.
 
