@@ -2,7 +2,7 @@
 layout: post
 title:  "Why it's Okay To Do An Unpaid Internship"
 author: Marianne
-categories: [ internships, work, college ]
+categories: [ internships, work, college, school ]
 image: https://images.unsplash.com/photo-1459257831348-f0cdd359235f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80
 featured: true
 hidden: false
@@ -24,7 +24,7 @@ I can't say that everyone who's had an unpaid internship has had the same experi
 
 For me, I've always wanted to build a business, therefore, I always chose the internship opportunity that I thought would best help me understand how to build a successful business.
 
-If that's not you, then evaluate why you want an internship in the first place. Are you doing it for the...
+If that's not you (and most people aren't like me), then evaluate why you want an internship in the first place. Are you doing it for the...
 
  - Money
  - Experience
